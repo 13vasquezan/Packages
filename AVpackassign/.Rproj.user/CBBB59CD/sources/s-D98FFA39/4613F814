@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549926547961.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "644263049",
+    "id" : "4613F814",
+    "lastKnownWriteTime" : 1549926543,
+    "last_content_update" : 1549926543,
+    "path" : "~/Desktop/RpackAssignment/AVpackassign/R/hello.R",
+    "project_path" : "R/hello.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
