@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550000425949.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3350159303",
+    "id" : "72276940",
+    "lastKnownWriteTime" : 1550000475,
+    "last_content_update" : 1550000475885,
+    "path" : "~/Desktop/RpackAssignment/Packages/AVpackassign/man/Range.Rd",
+    "project_path" : "man/Range.Rd",
+    "properties" : {
+        "cursorPosition" : "7,107",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
