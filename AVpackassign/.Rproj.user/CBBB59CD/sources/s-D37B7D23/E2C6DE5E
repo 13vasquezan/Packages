@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "644263049",
+    "hash" : "3673846770",
     "id" : "E2C6DE5E",
-    "lastKnownWriteTime" : 1549926812,
-    "last_content_update" : 1549926812,
+    "lastKnownWriteTime" : 1550000384,
+    "last_content_update" : 1550000384860,
     "path" : "~/Desktop/RpackAssignment/Packages/AVpackassign/R/RangeA.R",
     "project_path" : "R/RangeA.R",
     "properties" : {
+        "cursorPosition" : "4,0",
+        "scrollLine" : "0"
     },
     "relative_order" : 2,
     "source_on_save" : false,
