@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3350159303",
+    "hash" : "462030006",
     "id" : "72276940",
-    "lastKnownWriteTime" : 1550000475,
-    "last_content_update" : 1550000475885,
+    "lastKnownWriteTime" : 1551035267,
+    "last_content_update" : 1551035267162,
     "path" : "~/Desktop/RpackAssignment/Packages/AVpackassign/man/Range.Rd",
     "project_path" : "man/Range.Rd",
     "properties" : {
-        "cursorPosition" : "7,107",
+        "cursorPosition" : "11,17",
         "scrollLine" : "0"
     },
     "relative_order" : 3,

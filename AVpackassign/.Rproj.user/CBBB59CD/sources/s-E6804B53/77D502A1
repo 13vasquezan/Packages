@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551035328494.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4155759795",
+    "id" : "77D502A1",
+    "lastKnownWriteTime" : 1551035387,
+    "last_content_update" : 1551035387059,
+    "path" : "~/Desktop/RpackAssignment/Packages/AVpackassign/man/SumA.Rd",
+    "project_path" : "man/SumA.Rd",
+    "properties" : {
+        "cursorPosition" : "11,12",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
