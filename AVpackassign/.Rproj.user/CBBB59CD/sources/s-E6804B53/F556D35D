@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1551035276930.000,
+    "created" : 1551035417981.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "E2A7D2C3",
-    "lastKnownWriteTime" : 1551035322,
-    "last_content_update" : 1551035322044,
-    "path" : "~/Desktop/RpackAssignment/Packages/AVpackassign/R/SumA.R",
-    "project_path" : "R/SumA.R",
+    "id" : "F556D35D",
+    "lastKnownWriteTime" : 1551035477,
+    "last_content_update" : 1551035477908,
+    "path" : "~/Desktop/RpackAssignment/Packages/AVpackassign/R/Dividebytwo.R",
+    "project_path" : "R/Dividebytwo.R",
     "properties" : {
         "cursorPosition" : "7,0",
         "scrollLine" : "0"
     },
-    "relative_order" : 4,
+    "relative_order" : 6,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_source"
